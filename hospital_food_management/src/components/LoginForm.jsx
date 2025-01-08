@@ -2,8 +2,8 @@
 
 export default function LoginForm ()  {
   return (
-   <div className="formdiv flex justify-center w-2/5 items-center"> 
-<form action="" method="get" className="form-control w-full max-w-md mt-40">
+   <div className="formdiv flex justify-center w-3/6 items-center"> 
+<form action="" method="get" className="form-control w-full max-w-md mt-40 rounded-lg shadow-2xl shadow-purple-800/60">
             <div className="form-heading flex justify-center m-2">
                 Login
             </div>
